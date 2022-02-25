@@ -3,3 +3,6 @@ Head[[:space:]]First[[:space:]]Java(第2版).pdf filter=lfs diff=lfs merge=lfs -
 620435[[:space:]]CPU自制入门.pdf filter=lfs diff=lfs merge=lfs -text
 690409+数据结构++C语言版++第2版.pdf filter=lfs diff=lfs merge=lfs -text
 数字电子技术基础.(阎石.第5版).pdf filter=lfs diff=lfs merge=lfs -text
+你不知道的JavaScript上卷.pdf filter=lfs diff=lfs merge=lfs -text
+你不知道的JavaScript下卷.pdf filter=lfs diff=lfs merge=lfs -text
+你不知道的JavaScript（中卷）.pdf filter=lfs diff=lfs merge=lfs -text
